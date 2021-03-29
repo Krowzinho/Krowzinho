@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Radoi Cristian.
+- 👀 I’m interested in Web Design.
+- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT.
+- 💞️ I’m looking to collaborate with a web company.
+- 📫 How to reach me "cristi.radoi1998@gmail.com".
